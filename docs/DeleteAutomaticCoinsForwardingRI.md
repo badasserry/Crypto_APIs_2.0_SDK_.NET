@@ -1,6 +1,6 @@
 # CryptoAPIs.Model.DeleteAutomaticCoinsForwardingRI
 
-## Properties
+## Propertiesj
 
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
